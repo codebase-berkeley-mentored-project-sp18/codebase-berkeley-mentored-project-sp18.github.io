@@ -1,9 +1,9 @@
-# codebase-berkeley-mentored-project-fa17.github.io
+# codebase-berkeley-mentored-project-sp18.github.io
 The official site of the mentored project!
 
 ## Instructions
 
-1. `git clone https://github.com/codebase-berkeley-mentored-project-fa17/codebase-berkeley-mentored-project-fa17.github.io.git`
+1. `git clone https://github.com/codebase-berkeley-mentored-project-sp18/codebase-berkeley-mentored-project-sp18.github.io.git`
 2. Make your changes.
 3. `git add -A` to add all changed files.
 4. `git commit -m <YOUR MESSAGE HERE>`.
@@ -13,13 +13,3 @@ The official site of the mentored project!
 
 * Andrew Chan
 * Brian DeLeonardis
-* Raymond Guo
-* Elise Xu
-* Michelle Hwang
-* Olivia Shiah
-* Sarah Hammond
-* Amitav Baruah
-* Jared Rosner
-* Pratibha Sriram
-* Nilay Khatore
-* Mary Xu
